@@ -1,0 +1,27 @@
+
+.enlace-menu2 {
+    margin-left: 10px;
+    color:#444449;
+}
+
+.enlace-menu {
+    margin-right: 13px;
+    color: #245DC1;
+        
+}
+
+#menu-sec {
+    border-bottom:1px solid #EEEEEE;
+}
+
+.menu-footer {
+    font-size:11px;
+    color:#245DC1;
+    margin-right:2px;
+}
+
+#sha{
+    -webkit-box-shadow: 0px 0px 18px 0px rgba(48,50,50,0.48);
+    -moz-box-shadow: 0px 0px 18px 0px rgba(48,50,50,0.48);
+    box-shadow: 0px 0px 18px 0px rgba(48,50,50,0.48);
+}
